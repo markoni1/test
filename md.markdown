@@ -11,3 +11,7 @@ You can even [link to Google!](http://google.com)
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
+
+
+
+![ANIMU](https://m.media-amazon.com/images/M/MV5BNzcxODMxMjY4NF5BMl5BanBnXkFtZTgwMzUzMjkxMzE@._V1_SY1000_CR0,0,770,1000_AL_.jpg)

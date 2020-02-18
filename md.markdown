@@ -3,7 +3,7 @@ Oh wow, das ist ein Mark ciao!!!
 It's very easy to make some words **bold** and other words *italic* with Markdown. 
 You can even [link to Google!](http://google.com)
  
-![alt text](https://img.huffingtonpost.com/asset/5704de3d1500002a000b4249.jpeg?ops=2000_1000 "Logo Title Text 1")
+![Trumps hair](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ZH0aPSEMREsE2H7EwgfRUQHaD4%26pid%3DApi&f=1 "hair hair hair")
 
 1. Hillary
 2. Billary
